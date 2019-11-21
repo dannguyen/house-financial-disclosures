@@ -27,7 +27,7 @@ def make_pdf_url(record):
 
 
 def gather_files(srcdir=SRC_DIR):
-    return sorted(SRC_DIR.glob('*.txt'))
+    return sorted(SRC_DIR.glob('*.txt'), reverse=True)
 
 def gather_records(srcdir=SRC_DIR):
     return [row for fpath in gather_files(srcdir) for row in parse_year_file(fpath)]
