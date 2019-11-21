@@ -6,6 +6,23 @@ http://clerk.house.gov/public_disc/financial-search.aspx
 
 Year compilings: http://clerk.house.gov/public_disc/financial.aspx
 
+# scwu 
+
+- stash
+    - yearly archives
+    - individual pdfs
+    - year index pages
+    - get FEC candidacy data?
+    - match reps with congress/unitedstates? 
+- collate
+    - take inventory of image and text based pdfs
+    - extract text-based pdfs    
+    
+- wrangle
+
+- unify
+
+
 
 # TODOS
 
