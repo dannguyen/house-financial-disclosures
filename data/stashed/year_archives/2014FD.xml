@@ -1072,6 +1072,17 @@
     <Last>Bass</Last>
     <First>Karen</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA37</StateDst>
+    <Year>2014</Year>
+    <FilingDate>10/16/2019</FilingDate>
+    <DocID>10028909</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Bass</Last>
+    <First>Karen</First>
+    <Suffix />
     <FilingType>O</FilingType>
     <StateDst>CA37</StateDst>
     <Year>2014</Year>
@@ -10892,6 +10903,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Greenwald</Last>
+    <First>Peter Thomas</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>VA07</StateDst>
+    <Year>2014</Year>
+    <FilingDate>10/16/2019</FilingDate>
+    <DocID>40001681</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Grettenberger</Last>
     <First>Susan</First>
     <Suffix />
@@ -15982,6 +16004,17 @@
     <Year>2014</Year>
     <FilingDate>9/24/2018</FilingDate>
     <DocID>10024782</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lieu</Last>
+    <First>Ted</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA33</StateDst>
+    <Year>2014</Year>
+    <FilingDate>8/13/2019</FilingDate>
+    <DocID>10029063</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -25145,6 +25178,17 @@
     <Year>2014</Year>
     <FilingDate>5/21/2014</FilingDate>
     <DocID>8215398</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Schweikert</Last>
+    <First>David</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>AZ06</StateDst>
+    <Year>2014</Year>
+    <FilingDate>9/4/2019</FilingDate>
+    <DocID>9115341</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>

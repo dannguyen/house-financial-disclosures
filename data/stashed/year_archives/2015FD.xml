@@ -1006,6 +1006,17 @@
     <Last>Bass</Last>
     <First>Karen</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA37</StateDst>
+    <Year>2015</Year>
+    <FilingDate>10/16/2019</FilingDate>
+    <DocID>10028910</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Bass</Last>
+    <First>Karen</First>
+    <Suffix />
     <FilingType>O</FilingType>
     <StateDst>CA37</StateDst>
     <Year>2015</Year>
@@ -3101,6 +3112,17 @@
     <Year>2015</Year>
     <FilingDate>8/31/2018</FilingDate>
     <DocID>9113740</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Caraway</Last>
+    <First>Barbara Len Mallory</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>TX30</StateDst>
+    <Year>2015</Year>
+    <FilingDate>11/18/2019</FilingDate>
+    <DocID>8216691</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -13656,6 +13678,17 @@
     <Last>Lieu</Last>
     <First>Ted</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA33</StateDst>
+    <Year>2015</Year>
+    <FilingDate>8/13/2019</FilingDate>
+    <DocID>10029064</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lieu</Last>
+    <First>Ted</First>
+    <Suffix />
     <FilingType>O</FilingType>
     <StateDst>CA33</StateDst>
     <Year>2015</Year>
@@ -21015,6 +21048,17 @@
     <Last>Schweikert</Last>
     <First>David</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>AZ06</StateDst>
+    <Year>2015</Year>
+    <FilingDate>9/4/2019</FilingDate>
+    <DocID>9115340</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Schweikert</Last>
+    <First>David</First>
+    <Suffix />
     <FilingType>O</FilingType>
     <StateDst>AZ06</StateDst>
     <Year>2015</Year>
@@ -22802,6 +22846,17 @@
     <Year>2015</Year>
     <FilingDate>5/26/2016</FilingDate>
     <DocID>10012610</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Thompson</Last>
+    <First>Glenn</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>PA05</StateDst>
+    <Year>2015</Year>
+    <FilingDate>8/7/2019</FilingDate>
+    <DocID>10028793</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>

@@ -1424,6 +1424,17 @@
     <Last>Bass</Last>
     <First>Karen</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA37</StateDst>
+    <Year>2017</Year>
+    <FilingDate>10/16/2019</FilingDate>
+    <DocID>10029596</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Bass</Last>
+    <First>Karen</First>
+    <Suffix />
     <FilingType>O</FilingType>
     <StateDst>CA37</StateDst>
     <Year>2017</Year>
@@ -2562,6 +2573,17 @@
     <Year>2017</Year>
     <FilingDate>11/28/2017</FilingDate>
     <DocID>20008454</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Blunt Rochester</Last>
+    <First>Lisa</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>DE00</StateDst>
+    <Year>2017</Year>
+    <FilingDate>8/7/2019</FilingDate>
+    <DocID>10028897</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -4460,6 +4482,17 @@
     <Last>Cartwright</Last>
     <First>Matt</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>PA08</StateDst>
+    <Year>2017</Year>
+    <FilingDate>10/10/2019</FilingDate>
+    <DocID>9115468</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Cartwright</Last>
+    <First>Matt</First>
+    <Suffix />
     <FilingType>O</FilingType>
     <StateDst>PA17</StateDst>
     <Year>2017</Year>
@@ -5224,6 +5257,17 @@
     <Year>2017</Year>
     <FilingDate>7/27/2017</FilingDate>
     <DocID>40000843</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Clarke</Last>
+    <First>Yvette D.</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>NY09</StateDst>
+    <Year>2017</Year>
+    <FilingDate>8/8/2019</FilingDate>
+    <DocID>10024863</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -6621,6 +6665,28 @@
     <Year>2017</Year>
     <FilingDate>10/30/2017</FilingDate>
     <DocID>10019182</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Cox</Last>
+    <First>TJ John (Tj)</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA10</StateDst>
+    <Year>2017</Year>
+    <FilingDate>8/13/2019</FilingDate>
+    <DocID>10028988</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Cox</Last>
+    <First>TJ John (Tj)</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA10</StateDst>
+    <Year>2017</Year>
+    <FilingDate>11/15/2019</FilingDate>
+    <DocID>10030022</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -9426,6 +9492,17 @@
     <Year>2017</Year>
     <FilingDate>12/6/2017</FilingDate>
     <DocID>9112163</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Duffy</Last>
+    <First>Sean P.</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>WI07</StateDst>
+    <Year>2017</Year>
+    <FilingDate>10/17/2019</FilingDate>
+    <DocID>10029721</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -13991,6 +14068,17 @@
     <Year>2017</Year>
     <FilingDate>5/4/2018</FilingDate>
     <DocID>10020884</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Grijalva</Last>
+    <First>Raúl M.</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>AZ03</StateDst>
+    <Year>2017</Year>
+    <FilingDate>8/8/2019</FilingDate>
+    <DocID>10028978</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -18804,6 +18892,17 @@
     <Last>Krishnamoorthi</Last>
     <First>S. Raja</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>IL08</StateDst>
+    <Year>2017</Year>
+    <FilingDate>8/5/2019</FilingDate>
+    <DocID>10028945</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Krishnamoorthi</Last>
+    <First>S. Raja</First>
+    <Suffix />
     <FilingType>O</FilingType>
     <StateDst>IL08</StateDst>
     <Year>2017</Year>
@@ -19504,6 +19603,17 @@
     <DocID>10025075</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lawson</Last>
+    <First>Alfred</First>
+    <Suffix>Jr</Suffix>
+    <FilingType>A</FilingType>
+    <StateDst>FL05</StateDst>
+    <Year>2017</Year>
+    <FilingDate>7/30/2019</FilingDate>
+    <DocID>10028826</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Leach</Last>
     <First>Daylin B.</First>
@@ -19909,6 +20019,28 @@
     <Year>2017</Year>
     <FilingDate>10/3/2018</FilingDate>
     <DocID>10024778</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lieu</Last>
+    <First>Ted</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA33</StateDst>
+    <Year>2017</Year>
+    <FilingDate>8/13/2019</FilingDate>
+    <DocID>10029061</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lieu</Last>
+    <First>Ted</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA33</StateDst>
+    <Year>2017</Year>
+    <FilingDate>8/13/2019</FilingDate>
+    <DocID>10029066</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -21394,6 +21526,17 @@
     <Year>2017</Year>
     <FilingDate>6/9/2017</FilingDate>
     <DocID>9111262</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Mahony</Last>
+    <First>Josh</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>AR03</StateDst>
+    <Year>2017</Year>
+    <FilingDate>10/31/2019</FilingDate>
+    <DocID>9115529</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -24410,6 +24553,17 @@
     <DocID>10025677</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Mucarsel-Powell</Last>
+    <First>Debbie</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>FL26</StateDst>
+    <Year>2017</Year>
+    <FilingDate>10/4/2019</FilingDate>
+    <DocID>10029481</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Mullikin</Last>
     <First>Tom</First>
@@ -24441,6 +24595,17 @@
     <Year>2017</Year>
     <FilingDate>12/12/2018</FilingDate>
     <DocID>10024974</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Mullin</Last>
+    <First>Markwayne</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>OK02</StateDst>
+    <Year>2017</Year>
+    <FilingDate>9/17/2019</FilingDate>
+    <DocID>10029388</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -24870,6 +25035,17 @@
     <Year>2017</Year>
     <FilingDate>2/24/2017</FilingDate>
     <DocID>30002717</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Newhouse</Last>
+    <First>Dan</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>WA04</StateDst>
+    <Year>2017</Year>
+    <FilingDate>10/4/2019</FilingDate>
+    <DocID>10029246</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -25404,6 +25580,17 @@
     <Last>Olson</Last>
     <First>Pete</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>TX22</StateDst>
+    <Year>2017</Year>
+    <FilingDate>10/23/2019</FilingDate>
+    <DocID>10029611</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Olson</Last>
+    <First>Pete</First>
+    <Suffix />
     <FilingType>O</FilingType>
     <StateDst>TX22</StateDst>
     <Year>2017</Year>
@@ -25541,6 +25728,17 @@
     <Year>2017</Year>
     <FilingDate>9/28/2018</FilingDate>
     <DocID>10024639</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Palmer</Last>
+    <First>Gary</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>AL06</StateDst>
+    <Year>2017</Year>
+    <FilingDate>10/16/2019</FilingDate>
+    <DocID>10029538</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -29559,6 +29757,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Rouda</Last>
+    <First>Harley E.</First>
+    <Suffix>Jr.</Suffix>
+    <FilingType>A</FilingType>
+    <StateDst>CA48</StateDst>
+    <Year>2017</Year>
+    <FilingDate>8/13/2019</FilingDate>
+    <DocID>10023307</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Rouzer</Last>
     <First>David Cheston</First>
     <Suffix />
@@ -30942,6 +31151,17 @@
     <Year>2017</Year>
     <FilingDate>9/6/2017</FilingDate>
     <DocID>10018852</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Schweikert</Last>
+    <First>David</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>AZ06</StateDst>
+    <Year>2017</Year>
+    <FilingDate>9/6/2019</FilingDate>
+    <DocID>10025002</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -34523,6 +34743,17 @@
     <Last>Thompson</Last>
     <First>Glenn</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>PA05</StateDst>
+    <Year>2017</Year>
+    <FilingDate>8/7/2019</FilingDate>
+    <DocID>10028796</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Thompson</Last>
+    <First>Glenn</First>
+    <Suffix />
     <FilingType>O</FilingType>
     <StateDst>PA05</StateDst>
     <Year>2017</Year>
@@ -37553,6 +37784,28 @@
     <Year>2017</Year>
     <FilingDate>2/21/2018</FilingDate>
     <DocID>10019894</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Williams</Last>
+    <First>Roger</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>TX25</StateDst>
+    <Year>2017</Year>
+    <FilingDate>7/31/2019</FilingDate>
+    <DocID>10024392</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Williams</Last>
+    <First>Roger</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>TX25</StateDst>
+    <Year>2017</Year>
+    <FilingDate>7/31/2019</FilingDate>
+    <DocID>10028901</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>

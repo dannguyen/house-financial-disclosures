@@ -2,12 +2,6 @@
 
 # names for data stash folders that shouldn't be committed
 _drafts/
-datastash/
-datadump/
-foobar/
-foobar.*
-junk/
-
 
 # try to prevent the inclusion of credentials
 creds/
