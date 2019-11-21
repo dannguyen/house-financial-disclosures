@@ -1,0 +1,17 @@
+canonical_name,original_name
+doc_id,DocID
+year,Year
+state_district,StateDst
+filing_type,FilingType
+last_name,Last
+first_name,First
+prefix,Prefix
+suffix,Suffix
+filing_date,FilingDate
+pdf_status,
+pdf_type,
+page_count,
+pdf_bytes,
+pdf_path,
+pdf_url,
+
