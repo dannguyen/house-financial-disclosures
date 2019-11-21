@@ -28,4 +28,5 @@ Year compilings: http://clerk.house.gov/public_disc/financial.aspx
 
 - [X] fetched yearly archives, 2008 to 2018
 - [X] fetched PDFs as enumerated in yearly archives
+- [ ] Finish pushing collected files for 2008 thru 2018 (as collected above)
 - [ ] Write scraper for search page (to get 2019): http://clerk.house.gov/public_disc/financial-search.aspx
