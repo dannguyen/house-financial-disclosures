@@ -566,6 +566,17 @@
     <Last>Armstrong</Last>
     <First>Kelly</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>ND01</StateDst>
+    <Year>2018</Year>
+    <FilingDate>12/10/2019</FilingDate>
+    <DocID>10031203</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Armstrong</Last>
+    <First>Kelly</First>
+    <Suffix />
     <FilingType>H</FilingType>
     <StateDst>ND01</StateDst>
     <Year>2018</Year>
@@ -1226,6 +1237,17 @@
     <Last>Bass</Last>
     <First>Karen</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA37</StateDst>
+    <Year>2018</Year>
+    <FilingDate>12/13/2019</FilingDate>
+    <DocID>10031237</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Bass</Last>
+    <First>Karen</First>
+    <Suffix />
     <FilingType>O</FilingType>
     <StateDst>CA37</StateDst>
     <Year>2018</Year>
@@ -1589,6 +1611,17 @@
     <Last>Bilirakis</Last>
     <First>Gus M.</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>FL12</StateDst>
+    <Year>2018</Year>
+    <FilingDate>1/2/2020</FilingDate>
+    <DocID>8216836</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Bilirakis</Last>
+    <First>Gus M.</First>
+    <Suffix />
     <FilingType>O</FilingType>
     <StateDst>FL12</StateDst>
     <Year>2018</Year>
@@ -1605,6 +1638,17 @@
     <Year>2018</Year>
     <FilingDate>6/28/2018</FilingDate>
     <DocID>9113472</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Bilirakis</Last>
+    <First>Gus M.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL12</StateDst>
+    <Year>2018</Year>
+    <FilingDate>1/2/2020</FilingDate>
+    <DocID>8216835</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -6253,6 +6297,28 @@
     <Last>Crenshaw</Last>
     <First>Daniel</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>TX02</StateDst>
+    <Year>2018</Year>
+    <FilingDate>12/18/2019</FilingDate>
+    <DocID>10032279</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Crenshaw</Last>
+    <First>Daniel</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>TX02</StateDst>
+    <Year>2018</Year>
+    <FilingDate>2/11/2020</FilingDate>
+    <DocID>10033620</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Crenshaw</Last>
+    <First>Daniel</First>
+    <Suffix />
     <FilingType>H</FilingType>
     <StateDst>TX02</StateDst>
     <Year>2018</Year>
@@ -10708,6 +10774,17 @@
     <Last>Frame</Last>
     <First>Sean Colin</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA04</StateDst>
+    <Year>2018</Year>
+    <FilingDate>1/1/2020</FilingDate>
+    <DocID>10024979</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Frame</Last>
+    <First>Sean Colin</First>
+    <Suffix />
     <FilingType>D</FilingType>
     <StateDst>CA04</StateDst>
     <Year>2018</Year>
@@ -11538,6 +11615,17 @@
     <Year>2018</Year>
     <FilingDate>4/23/2018</FilingDate>
     <DocID>6334</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Garza</Last>
+    <First>Mauro Everett Mr</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX21</StateDst>
+    <Year>2018</Year>
+    <FilingDate>1/31/2020</FilingDate>
+    <DocID>10033569</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -17088,6 +17176,50 @@
     <Last>Kim</Last>
     <First>Young</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA39</StateDst>
+    <Year>2018</Year>
+    <FilingDate>1/21/2020</FilingDate>
+    <DocID>10032455</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Kim</Last>
+    <First>Young</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA39</StateDst>
+    <Year>2018</Year>
+    <FilingDate>1/21/2020</FilingDate>
+    <DocID>10033477</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Kim</Last>
+    <First>Young</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA39</StateDst>
+    <Year>2018</Year>
+    <FilingDate>1/22/2020</FilingDate>
+    <DocID>10033481</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Kim</Last>
+    <First>Young</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA39</StateDst>
+    <Year>2018</Year>
+    <FilingDate>1/22/2020</FilingDate>
+    <DocID>10033482</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Kim</Last>
+    <First>Young</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>CA39</StateDst>
     <Year>2018</Year>
@@ -17555,6 +17687,17 @@
     <Year>2018</Year>
     <FilingDate>9/24/2018</FilingDate>
     <DocID>10024773</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Kulkarni</Last>
+    <First>Sri Preston</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>TX22</StateDst>
+    <Year>2018</Year>
+    <FilingDate>3/9/2020</FilingDate>
+    <DocID>10034690</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -18754,6 +18897,17 @@
     <Year>2018</Year>
     <FilingDate>5/15/2018</FilingDate>
     <DocID>9112927</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Lesko</Last>
+    <First>Debbie</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>AZ08</StateDst>
+    <Year>2018</Year>
+    <FilingDate>1/23/2020</FilingDate>
+    <DocID>8216925</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -21156,6 +21310,17 @@
   <Member>
     <Prefix />
     <Last>Manning</Last>
+    <First>Christopher</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NM03</StateDst>
+    <Year>2018</Year>
+    <FilingDate>2/5/2020</FilingDate>
+    <DocID>10024898</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Manning</Last>
     <First>Kathy</First>
     <Suffix />
     <FilingType>C</FilingType>
@@ -21521,6 +21686,17 @@
     <Last>Martin</Last>
     <First>Brandon Ray</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AZ02</StateDst>
+    <Year>2018</Year>
+    <FilingDate>12/10/2019</FilingDate>
+    <DocID>10023113</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Martin</Last>
+    <First>Brandon Ray</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>AZ02</StateDst>
     <Year>2018</Year>
@@ -21823,6 +21999,17 @@
     <Year>2018</Year>
     <FilingDate>11/12/2018</FilingDate>
     <DocID>10024732</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Matory</Last>
+    <First>Liz</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>MD07</StateDst>
+    <Year>2018</Year>
+    <FilingDate>1/8/2020</FilingDate>
+    <DocID>40001818</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -24730,6 +24917,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Olivo</Last>
+    <First>Christine Alexandria 1983</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>FL24</StateDst>
+    <Year>2018</Year>
+    <FilingDate>11/20/2019</FilingDate>
+    <DocID>40001740</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Olmer</Last>
     <First>Scott David</First>
     <Suffix />
@@ -25244,6 +25442,17 @@
     <Year>2018</Year>
     <FilingDate>4/30/2019</FilingDate>
     <DocID>10025870</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Pate</Last>
+    <First>Ava</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>TX18</StateDst>
+    <Year>2018</Year>
+    <FilingDate>12/13/2019</FilingDate>
+    <DocID>10031261</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -29633,6 +29842,17 @@
     <Year>2018</Year>
     <FilingDate>9/26/2018</FilingDate>
     <DocID>9114006</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Sandles</Last>
+    <First>Christopher Rashaud</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst />
+    <Year>2018</Year>
+    <FilingDate />
+    <DocID>8216857</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -34231,6 +34451,17 @@
     <Year>2018</Year>
     <FilingDate>3/5/2019</FilingDate>
     <DocID>9114450</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Underwood</Last>
+    <First>Lauren</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>IL14</StateDst>
+    <Year>2018</Year>
+    <FilingDate>1/13/2020</FilingDate>
+    <DocID>10032443</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>

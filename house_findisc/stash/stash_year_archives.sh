@@ -4,7 +4,7 @@ DEST_DIR=data/stashed/year_archives
 DEST_ZIPS_DIR=${DEST_DIR}/zips
 mkdir -p ${DEST_ZIPS_DIR}
 
-for year in $(seq 2008 2018); do
+for year in $(seq 2018 2020); do
     url=${BASE_URL}/${year}FD.ZIP
     destzip=${DEST_ZIPS_DIR}/fd-${year}.zip
     curl -o ${destzip} ${url}
